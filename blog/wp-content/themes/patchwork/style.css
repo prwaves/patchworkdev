@@ -65,9 +65,10 @@ h1 {
 }
 
 h2{
-	font-size: 24px;
+	font-size: 17px;
 	font-weight:400;
 	text-shadow:1px 1px #ededed;
+	line-height: 25px;
 }
 
 h3{

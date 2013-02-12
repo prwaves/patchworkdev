@@ -31,7 +31,7 @@ get_header(); ?>
                     </div>
                      END POST IMAGE -->
 
-                    <?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'twentyeleven' ) ); ?>
+                    <?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>') ); ?>
 
                 </div>
 
